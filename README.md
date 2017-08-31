@@ -24,9 +24,15 @@ Usage(%):   21%
 
 `$> ./MemUsage.sh`
 ```
-Tot:    494MB
-Avail:  118MB
-Ratio:  0.761212
+RAM
+Tot:    7683MB
+Avail:  4699MB
+Used:   38%
+SWAP
+File:   /dev/sda5
+Tot:    7887MB
+Avail:  7887MB
+Used:   0%
 ```
 
 #### Recent Backups
